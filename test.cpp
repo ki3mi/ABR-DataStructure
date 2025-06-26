@@ -274,7 +274,7 @@ int main() {
                 break;
 
             default:
-                cout << "Opción inválida.\n";
+                cout << "Opción inválidaa.\n";
                 break;
         }
         if(opcion != 0){
